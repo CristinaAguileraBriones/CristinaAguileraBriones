@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Título del Proyecto ![Imagen de Portada](url_de_la_imagen) 
+# Título del Proyecto ![Imagen de Portada](repositorio/descarga.jpeg) 
 ## Descripción Breve descripción del proyecto, objetivos y funcionalidades principales.
 ## Características - Característica 1 - Característica 2 - Característica 3 
 ## Instalación Instrucciones para instalar y configurar el proyecto. 
